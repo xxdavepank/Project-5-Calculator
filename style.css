@@ -1,0 +1,120 @@
+body {
+  background-color: #f0e2d0;
+  color: #645452;
+  font-family: "Courier New", monospace;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* font-size: 100fr; */
+}
+
+/* .retro-container {
+  width: 80%;
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  background: linear-gradient(to bottom right, #f0e2d0, #c5b9a9);
+  border: 1px solid #645452;
+  box-shadow: 4px 4px 0px 0px rgba(0, 0, 0, 0.2);
+}
+
+.neon-glow {
+  text-shadow: 0 0 5px #fff, 0 0 10px #f0f, 0 0 15px #f0f;
+  animation: neon-glow 2s linear infinite;
+}
+
+@keyframes neon-glow {
+  0% {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff;
+  }
+  50% {
+    text-shadow: 0 0 5px #fff, 0 0 10px #f0f, 0 0 15px #f0f;
+  }
+  100% {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff;
+  }
+} */
+/* * {
+  border: 1px solid red;
+} */
+.container {
+  flex: 1;
+  justify-content: center;
+  display: grid;
+  align-self: center;
+  width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding: 10px;
+  background: linear-gradient(to bottom right, #f0e2d0, #c5b9a9);
+  border: 1px solid #645452;
+  box-shadow: 4px 4px 0px 0px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  bottom: 0;
+}
+.display {
+  margin-left: auto;
+  height: 64px;
+  width: 251px;
+  border: 1px solid #645452;
+  border-radius: 4px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2px;
+  background-color: #89cff0;
+  font-weight: bolder;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.operator {
+  font-size: 15px;
+  text-align: right;
+  padding: 10px;
+  padding-bottom: 0;
+}
+
+.value {
+  font-size: 20px;
+  text-align: right;
+  padding: 10px;
+  padding-bottom: 0;
+}
+.keys {
+  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 3px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.keys div {
+  height: 40px;
+  width: 40px;
+  border: 1px solid #645452;
+  border-radius: 4px;
+  padding: 3px;
+  background-color: #c5b9a9;
+}
+.keys div:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+.footer {
+  position: fixed;
+  text-align: center;
+  width: 100%;
+  bottom: 0;
+  padding: 0;
+  margin: 0;
+  background-color: #c5b9a9;
+  border-top: 1px solid #645452;
+  color: #fff;
+}
