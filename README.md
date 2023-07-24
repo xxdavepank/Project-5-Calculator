@@ -1,6 +1,5 @@
 # Retro Calculator
 
-![Retro Calculator]
 
 Welcome to the Retro Calculator project! This is a simple calculator application with a retro theme, designed to evoke a nostalgic feel reminiscent of vintage calculators.
 
@@ -14,9 +13,6 @@ This calculator is built using HTML, CSS, and JavaScript. It features a retro-in
 - Clear button (C) to reset the calculator.
 - Responsive design for various screen sizes.
 
-## Screenshot
-
-![Calculator Screenshot](calculator-screenshot.png)
 
 ## How to Use
 
