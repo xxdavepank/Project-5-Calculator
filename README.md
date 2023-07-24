@@ -1,7 +1,7 @@
 # Retro Calculator
 
 
-Welcome to the Retro Calculator project! This is a simple calculator application with a retro theme, designed to evoke a nostalgic feel reminiscent of vintage calculators.
+Welcome to the Retro Calculator project [live view]() ! This is a simple calculator application with a retro theme, designed to evoke a nostalgic feel reminiscent of vintage calculators.
 
 ## Overview
 
@@ -10,7 +10,7 @@ This calculator is built using HTML, CSS, and JavaScript. It features a retro-in
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
-- Clear button (C) to reset the calculator.
+- Clear button (AC) to reset the calculator.
 - Responsive design for various screen sizes.
 
 
