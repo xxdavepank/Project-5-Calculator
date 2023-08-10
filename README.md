@@ -1,7 +1,7 @@
 # Retro Calculator
 
 
-Welcome to the Retro Calculator project [live view]() ! This is a simple calculator application with a retro theme, designed to evoke a nostalgic feel reminiscent of vintage calculators.
+Welcome to the Retro Calculator project [live view](https://xxdavepank.github.io/Project-5-Calculator/) ! This is a simple calculator application with a retro theme, designed to evoke a nostalgic feel reminiscent of vintage calculators.
 
 ## Overview
 
